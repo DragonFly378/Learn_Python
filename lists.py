@@ -1,3 +1,4 @@
+# A list adalah koleksi yang berurutan dan dapat diubah, dan bisa menduplikasi isi list tersebut
 
 ## Create list
 numbers = [7, 2, 63, 21, 35, 90]
