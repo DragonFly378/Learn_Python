@@ -1,7 +1,7 @@
 
 # ==> for loops
 
-peoples = ['hafiz', 'shafira', 'kiki', 'ardi']
+peoples = ['hafiz', 'ambon', 'kiki', 'ardi']
 
 ## Simple for loops
 # for person in peoples:
@@ -19,7 +19,7 @@ peoples = ['hafiz', 'shafira', 'kiki', 'ardi']
 
 ## Continue
 # for person in peoples:
-    # if person == 'shafira':
+    # if person == 'ambon':
     #     continue
     # print(f"Orang sekarang adalah {person}")
 
